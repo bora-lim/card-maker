@@ -1,0 +1,33 @@
+.cardWr {
+  flex: 1;
+  padding: 2em;
+  text-align: center;
+}
+.cardWr > h2 {
+  color: rgb(8, 54, 92);
+  margin-bottom: 1.5em;
+}
+.cardBox {
+  padding: 1em;
+  background: silver;
+}
+
+.cardBox li {
+  text-align: left;
+}
+
+.cardBox form {
+}
+.cardBox form span {
+}
+.cardBox form input {
+}
+
+.cardBox button {
+  margin-top: 2em;
+  padding: 0.5em 1em;
+  background: tomato;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}

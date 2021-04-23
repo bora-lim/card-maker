@@ -1,0 +1,18 @@
+.login {
+  padding: 2em;
+  text-align: center;
+}
+.login h3 {
+  font-size: 2rem;
+  margin-bottom: 1em;
+}
+.login button {
+  display: block;
+  padding: 1em 2em;
+  margin: 1em auto;
+  border-radius: 30px;
+  background: rgb(50, 14, 116);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+}

@@ -1,0 +1,17 @@
+.prvWr {
+  flex: 1;
+  padding: 2em;
+  text-align: center;
+}
+.prvWr > h2 {
+  color: rgb(8, 54, 92);
+  margin-bottom: 1.5em;
+}
+.prvBox {
+  padding: 1em;
+  background: skyblue;
+}
+
+.prvBox li {
+  text-align: left;
+}
